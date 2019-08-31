@@ -11,7 +11,7 @@ apt-get install python2
 
 
 ```
-git clone https://www.github.com/MetaChar/Mercury
+git clone https://www.github.com/alex14324/Mercury
 ```
 
 
